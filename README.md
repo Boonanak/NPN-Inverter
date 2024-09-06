@@ -1,6 +1,6 @@
 <h1>NPN Inverter (NOT Gate)</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtube.com/shorts/hMzYXwcFT7o?feature=share)
 
 <h2>Description</h2>
 In this simple inverter circuit, when the button is not pressed, the current flows from the cathode of the 9V battery, through the LED (lighting it up), and returns to the anode. However, when the button is pressed, a small portion of the current is directed to the base of the NPN transistor, activating it. This allows current to flow through the transistor, from the collector to the emitter, which becomes the path of least resistance. As a result, the current bypasses the LED, turning it off. Thus, pressing the button turns the LED off, while releasing it keeps the LED on.
