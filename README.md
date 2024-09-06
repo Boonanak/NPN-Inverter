@@ -65,6 +65,6 @@ In this simple inverter circuit, when the button is not pressed, the current flo
 
 <h2>Schematic:</h2>
 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d7ce8411-0446-4a3c-88c4-81addc21abd7" height="80%" width="80%" alt="NPN-Inverter"/>
 <br />
 <br />
